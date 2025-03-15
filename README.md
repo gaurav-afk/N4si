@@ -7,12 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://www.google.com/search?q=anime+gif+boy&client=opera-gx&sca_esv=83805205c18dea15&udm=2&biw=1710&bih=998&sxsrf=AHTn8zr1znVQAmmrdC4gNnvzO1QjVf47cg%3A1742071180099&ei=jOXVZ8jgBZXC0PEP2Iv0iQo&ved=0ahUKEwjI1vPu-IyMAxUVITQIHdgFPaEQ4dUDCBE&uact=5&oq=anime+gif+boy&gs_lp=EgNpbWciDWFuaW1lIGdpZiBib3kyBxAjGCcYyQIyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSM0UUP0KWMcTcAF4AJABAJgBX6ABiQOqAQE1uAEDyAEA-AEBmAIGoAKsA8ICBhAAGAcYHsICChAAGIAEGEMYigXCAgcQABiABBgKmAMAiAYBkgcBNqAHsyI&sclient=img#vhid=tlHwZva9Qr_zNM&vssid=mosaic"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
